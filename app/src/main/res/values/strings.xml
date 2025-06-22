@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LastOne</string>
+    <string name="start">Start</string>
+    <string name="settings">Settings</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="example">Example: 2 + 2</string>
+    <string name="time_left">Time left: </string>
+</resources>
